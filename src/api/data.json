@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa",
+    "precio": 5000,
+    "imagen": "https://i.imgur.com/wDwhZpn.jpg",
+    "detalle": "Hamburguesa de carne, tomate, lechuga, cebolla rosada, queso cheddar, huevo y agregados de mayonesa, mostasa y ketchup"
+  },
+  {
+    "id": 2,
+    "nombre": "Empanada",
+    "precio": 300,
+    "imagen": "https://i.imgur.com/TDMuiwQ.jpg",
+    "detalle": "Empanadas de carne, pollo, jamón y queso, de realización artesanal"
+  },
+  {
+    "id": 3,
+    "nombre": "Papas Fritas",
+    "precio": 3000,
+    "imagen": "https://i.imgur.com/RLr3E2I.jpg",
+    "detalle": "1/4 de papas fritas con queso cheddar, mostasa y mayonesa"
+  },
+  {
+    "id": 4,
+    "nombre": "Pizza",
+    "precio": 10000,
+    "imagen": "https://i.imgur.com/kIH7nFj.jpg",
+    "detalle": "Pizza grande de 8 porciones de: muzzarella, huevo, salsa especial y aceitunas"
+  },
+  {
+    "id": 5,
+    "nombre": "Coca-Cola",
+    "precio": 1000,
+    "imagen": "https://i.imgur.com/1mKrB7A.jpg",
+    "detalle": "Gaseosa marca coca-cola, lata de 350 ml"
+  },
+  {
+    "id": 6,
+    "nombre": "Heineken",
+    "precio": 2000,
+    "imagen": "https://i.imgur.com/KRPo8G5.jpg",
+    "detalle": "Cerveza marca Heineken, lata de 750 ml"
+  },
+  {
+    "id": 7,
+    "nombre": "Sprite",
+    "precio": 1000,
+    "imagen": "https://i.imgur.com/dUVe0ew.jpg",
+    "detalle": "Gaseosa marca Sprite, botella de 750 ml "
+  }
+]
