@@ -1,3 +1,10 @@
+## Carrito de Compras
+Aplicación en la cual se puede agregar, eliminar y modificar la cantidad de productos de un carrito de compras.
+</br>
+Se hace el manejo de rutas usando react-router-dom, donde podemos diferenciar la página principal, la del detalle del producto y la del pago detallado de la compra.
+</br>
+Se hace la impresión de ticket mediante el uso de react-to-print.
+
 ## Tecnologia Usada:
 "@vitejs/plugin-react": "4.3.1",
 </br>
